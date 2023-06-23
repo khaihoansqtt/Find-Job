@@ -2,7 +2,7 @@
 # Project objective
 The goal of this project is to build a job search website where users can search for jobs that match their skills and desires, and also submit CVs for those positions. Employers can also post vacancies for their company on this website.
 
-# Why build the project?
+# Why build this project?
 Job search is an extremely important and challenging job for people looking for work. However, the job market is increasingly competitive and crowded, making it more difficult to find a job position that matches your skills and desires. Therefore, building a job search website will help mitigate that challenge and make it easier and more efficient for people who are looking for a job to find a job. At the same time, posting job vacancies has also become easier for recruiters, making the recruitment process faster and more efficient.
 
 # Project Features
@@ -30,3 +30,4 @@ This project uses the following technologies:
 This job search website project will help reduce the challenge for job seekers and help employers find quality candidates to grow their companies. If you have any comments or questions, feel free to contact us.
 + My phone: 0396826333
 + My email: khaihoancr7@gmail.com
+  Copyright by KhaiHoan98
