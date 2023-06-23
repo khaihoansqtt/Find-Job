@@ -28,5 +28,5 @@ This project uses the following technologies:
 
 # Conclusion
 This job search website project will help reduce the challenge for job seekers and help employers find quality candidates to grow their companies. If you have any comments or questions, feel free to contact us.
-My phone: 0396826333
-My email: khaihoancr7@gmail.com
++ My phone: 0396826333
++ My email: khaihoancr7@gmail.com
