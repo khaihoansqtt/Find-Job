@@ -19,7 +19,7 @@ Users can view job details including information about the job, company, working
 - Upload CV file
 Users can apply for jobs directly on the website, along with their CV by upload CV file. This information will be sent directly to the employer managing the position.
 
-- follow companies, save recruitments
+- Follow companies, save important recruitments
 Candidates can follow companies, save recruitments, apply jobs they want to apply.
 
 - Post job recuitment
