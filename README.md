@@ -7,18 +7,23 @@ Job search is an extremely important and challenging job for people looking for 
 
 # Project Features
 This job search site has the following features:
+-	Authenciation
+Authentication and authorization by spring security, hash password by bcrypt encoder and confirm register by email and a token.
 
-- Job seeking
-Users can search for the desired job based on keywords, such as the position applied for, company name, desired address. The results will appear according to the priority of the job's match with the user's skills and desires. In addition, the system will suggest outstanding jobs, hot companies at the moment
+- Job search
+Users can search for the desired job based on keywords, such as the position applied for, company name, desired address.... The results will appear according to the priority of the job's match with the user's skills and desires. In addition, the system will suggest outstanding jobs, hot companies, categories... at the moment and paginate them on homepage
 
 - View job details
 Users can view job details including information about the job, company, working location, salary, working time, vacancies and required qualifications.
 
-- Submit CV
-Users can apply for jobs directly on the website, along with their CV. This information will be sent directly to the employer managing the position.
+- Upload CV file
+Users can apply for jobs directly on the website, along with their CV by upload CV file. This information will be sent directly to the employer managing the position.
 
-- Post job vacancies
-Employers can post job vacancies on this website through a simple interface. They will provide information about the job, the requirements of the job and contact information.
+- follow companies, save recruitments
+Candidates can follow companies, save recruitments, apply jobs they want to apply.
+
+- Post job recuitment
+Employers can post  recuitment on this website through a simple interface. They will provide information about the job, the requirements of the job and contact information.
 
 # Used technology
 This project uses the following technologies:
